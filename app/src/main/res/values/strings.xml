@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AplicacionPosts</string>
+    <string name="obtain_posts">Obtener Posts</string>
+</resources>

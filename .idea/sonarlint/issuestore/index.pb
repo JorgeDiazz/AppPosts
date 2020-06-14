@@ -1,0 +1,19 @@
+
+u
+Eapp/src/main/java/com/jorgeandresdiaz/aplicacionposts/model/Post.java,9\a\9ac779dd9a54ea88c4befefb5d0088d3818727af
+‚
+Rapp/src/main/java/com/jorgeandresdiaz/aplicacionposts/retrofit/ClientRetrofit.java,d\c\dced68276f0fdf2d3f28c5210bfe5ada074d6c07
+x
+Happ/src/main/java/com/jorgeandresdiaz/aplicacionposts/retrofit/APIs.java,6\5\655f6d5e9502e7aa3f838c9c8f0ec75c9525dab7
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+{
+Kapp/src/main/java/com/jorgeandresdiaz/aplicacionposts/view/PostAdapter.java,f\c\fc665040e0476f30dc2aba2e092760b453d6879b
+€
+Papp/src/main/java/com/jorgeandresdiaz/aplicacionposts/contract/MainContract.java,1\1\11cd43afbea2e231f13ea72467ecfc6144a43e61
+‚
+Rapp/src/main/java/com/jorgeandresdiaz/aplicacionposts/presenter/MainPresenter.java,f\a\fab20704b3f288819eefe458881352198b1fd453
+|
+Lapp/src/main/java/com/jorgeandresdiaz/aplicacionposts/view/MainActivity.java,1\1\11d4c2e6eed7adbc697a7c7ba3d7769332c67cde
